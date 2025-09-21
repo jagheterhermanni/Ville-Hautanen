@@ -1,6 +1,6 @@
 # Ville Hautanen
   ## ICT Engineer student from Finland
-  ### Embedded software Engineer and Programmer
+  ### Embedded software Developer
   Skills: <br/>
  <ins> Languages <br/> </ins>
   - C ,C++, C#
