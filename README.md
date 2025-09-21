@@ -1,5 +1,5 @@
 # Ville Hautanen
-  ## ICT Engineer student from Finland
+  ### ICT Engineer student from Finland
   ### Software Developer
   Skills: <br/>
  <ins> Languages <br/> </ins>
